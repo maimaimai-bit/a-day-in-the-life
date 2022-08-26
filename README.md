@@ -1,2 +1,3 @@
 # a-day-in-the-life
-Final project for Spring 2022 Body + the Digital class. Interactive game on the safety of women. 
+Github page: https://maimaimai-bit.github.io/a-day-in-the-life/ <br />
+An interactive story hoping to raise awareness on violence towards women and denounce victim blaming. The message becomes clearer with the number of play-throughs, or if multiple people are playing. Created with Twine (HTML/CSS/JS, 5/2022).   
